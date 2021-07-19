@@ -1,3 +1,7 @@
+Whenever you click the screen , it gaves you a new color and a new sound rithmically :) that's so funny and improving :) thanks Bravery..:)
+![gif](https://user-images.githubusercontent.com/81476500/126191382-b4d695ea-2df2-40b1-80ef-f649a231a8e1.gif)
+
+
 # xylophone_app
 
 A new xylophone project I've created
